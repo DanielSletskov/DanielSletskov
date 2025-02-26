@@ -1,7 +1,5 @@
 ## Hi there my name is Daniel Sletskov 👋
-
-- 🌱 I’m currently learning ...
-
+I'm a passionate and positive software developer whit at broad index of different repositories.  
 
 <!--
 **DanielSletskov/DanielSletskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
