@@ -1,4 +1,4 @@
-## Hi there my name is Daniel Sletskov 👋
+## Hi there my name is Daniel 👋
 I'm a passionate and positive software developer whit at broad index of different repositories.  
 
 <!--
